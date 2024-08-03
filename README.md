@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Front-end Developer.<br>👯 I’m looking to collaborate on React Projects.<br>🌱 I’m currently learning Full-stack Web Development and AI.<br>
+🔭 I’m currently working as a Web Developer.<br>👯 I’m looking to collaborate on React Projects.<br>🌱 I’m currently learning Full-stack Web Development and AI.<br>
 
 
 ## 🌐 Socials:
