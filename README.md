@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Web Developer.<br>👯 I’m looking to collaborate and showcase my skills on real world projects.<br>🌱 I’m currently learning Full-stack Web Development and AI.<br>
+🔭 I’m currently working as a Web Developer.<br>👯 I’m looking to collaborate and showcase my skills on real world projects.<br>🌱 I’m currently learning Full-stack Web Development and AI.<be>
 
 
 ## 🌐 Socials:
