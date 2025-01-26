@@ -26,6 +26,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NileshPathak810) 
+  <!-- [![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://paypal.me/NileshPathak810) --> 
 
   
 <!--  [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@nileshpathak226/) -->
